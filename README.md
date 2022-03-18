@@ -24,7 +24,7 @@ If you use this data or code for academic research, you are encouraged to cite t
 
 ```
 @article{yu2022gradient,
-  title   = {Gradient-enhanced physics-informed neural networks for forward and inverse PDE problems},
+  title   = {Gradient-enhanced physics-informed neural networks for forward and inverse {PDE} problems},
   author  = {Yu, Jeremy and Lu, Lu and Meng, Xuhui and Karniadakis, George Em},
   journal = {Computer Methods in Applied Mechanics and Engineering},
   volume  = {393},
