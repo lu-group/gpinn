@@ -23,11 +23,14 @@ The data and code for the paper [J. Yu, L. Lu, X. Meng, & G. E. Karniadakis. Gra
 If you use this data or code for academic research, you are encouraged to cite the following paper:
 
 ```
-@article{yu2021gradient,
-  title={Gradient-enhanced physics-informed neural networks for forward and inverse PDE problems},
-  author={Yu, Jeremy and Lu, Lu and Meng, Xuhui and Karniadakis, George Em},
-  journal={arXiv preprint arXiv:2111.02801},
-  year={2021}
+@article{yu2022gradient,
+  title   = {Gradient-enhanced physics-informed neural networks for forward and inverse PDE problems},
+  author  = {Yu, Jeremy and Lu, Lu and Meng, Xuhui and Karniadakis, George Em},
+  journal = {Computer Methods in Applied Mechanics and Engineering},
+  volume  = {393},
+  pages   = {114823},
+  year    = {2022},
+  doi     = {https://doi.org/10.1016/j.cma.2022.114823}
 }
 ```
 
