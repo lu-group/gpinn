@@ -1,6 +1,6 @@
 # gPINN: Gradient-enhanced physics-informed neural networks
 
-The data and code for the paper [J. Yu, L. Lu, X. Meng, & G. E. Karniadakis. Gradient-enhanced physics-informed neural networks for forward and inverse PDE problems. *arXiv preprint arXiv:2111.02801*, 2021](https://arxiv.org/abs/2111.02801).
+The data and code for the paper [J. Yu, L. Lu, X. Meng, & G. E. Karniadakis. Gradient-enhanced physics-informed neural networks for forward and inverse PDE problems. *Computer Methods in Applied Mechanics and Engineering*, 393, 114823, 2022](https://doi.org/10.1016/j.cma.2022.114823).
 
 ## Code
 
